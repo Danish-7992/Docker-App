@@ -8,7 +8,7 @@ public class DockerSpringAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerSpringAppApplication.class, args);
-		System.out.print("scc");
+		System.out.print("Danish Alam");
 	}
 
 }
